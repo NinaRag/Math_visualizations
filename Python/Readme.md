@@ -1,15 +1,15 @@
-Simple things
+## Simple things
 
 1. Taylor series
 2. Fourier series
 
-Linear Algebra
+## Linear Algebra
 
 1. Toy model demonstrating radius of convergence/power series
-2. Toy model for eigen vectors
+2. Toy model for eigenvectors
 3. Demonstration of SVD
    
-Dynamical Systems and Chaos
+## Dynamical Systems and Chaos
 1. Lorenz Attractor
 2. Analysis using dynamic mode decomposition
 3. Koopman operator
@@ -19,4 +19,4 @@ Dynamical Systems and Chaos
   2. Grid Cell activity - ring 
 
 
-Explaining the exceptions
+## Explaining the exceptions
